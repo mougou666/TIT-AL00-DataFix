@@ -1,0 +1,13 @@
+This project is distributed under the GNU General Public License v3.0.
+
+The patched `telephony-common.jar` is derived from the LineageOS 14.1
+`lineage_primel` build (Apache-2.0 / GPL-2.0 components), used here for
+compatibility patching on the same device. All shell scripts and
+documentation are original work released under GPL-3.0.
+
+This software is provided "AS IS", without warranty of any kind, express
+or implied. Modifying system components on your device may cause data
+loss or make the device unbootable. You are solely responsible for any
+consequences.
+
+See <https://www.gnu.org/licenses/gpl-3.0.html> for the full license text.

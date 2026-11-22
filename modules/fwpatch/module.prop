@@ -1,0 +1,6 @@
+id=fwpatch
+name=Telephony data dial patch (TIT-AL00 / MT6735)
+version=1.0
+versionCode=1
+author=community
+description=Patched telephony-common.jar: forces APN list creation, enables only the "default" APN, makes the APN context ready, and fixes the subscription slot so the SIM shows up

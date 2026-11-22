@@ -1,0 +1,6 @@
+id=modem_al00
+name=TIT-AL00 modem firmware overlay
+version=1.0
+versionCode=1
+author=community
+description=Fix "baseband version unknown" on Huawei Enjoy 5 (TIT-AL00) by overlaying the correct AL00-signed modem image over modem_1_lwg_1.img
